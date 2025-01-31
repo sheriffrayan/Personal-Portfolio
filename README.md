@@ -40,7 +40,7 @@ This project was built using these technologies.
 
 ## Contact
 
-Feel free to reach out to me at [email@example.com](mailto:mohammedrayanarif@gmail.com) or visit my website <a href="https://sheriffrayan.github.io/PRODIGY_WD_04/" target="_blank">Mohammed Rayan Portfolio</a> for more information.
+Feel free to reach out to me at [email](mailto:mohammedrayanarif@gmail.com) or visit my website <a href="https://sheriffrayan.github.io/PRODIGY_WD_04/" target="_blank">Mohammed Rayan Portfolio</a> for more information.
 
 ## Show your support
 
